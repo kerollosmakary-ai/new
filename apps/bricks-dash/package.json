@@ -1,0 +1,9 @@
+{
+  "name": "bricks-dash",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev":   "bun --watch src/index.ts"
+  }
+}
