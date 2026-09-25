@@ -1,0 +1,6 @@
+*.local
+*.bak
+*.swp
+.DS_Store
+__pycache__/
+node_modules/

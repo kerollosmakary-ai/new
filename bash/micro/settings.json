@@ -1,0 +1,12 @@
+{
+    "colorscheme": "monokai",
+    "cursorline": true,
+    "mkparents": true,
+    "tabsize": 4,
+    "tabstospaces": true,
+    "autosu": false,
+    "savecursor": true,
+    "saveundo": true,
+    "scrollbar": true,
+    "statusline": true
+}
